@@ -184,6 +184,33 @@ This framework applies:
 * **Jest** → API & integration testing
 * **Node.js / Express** → Backend application
 * **GitHub Actions** → CI/CD automation
+## 🚀 How to Run the Project Local Execution
+
+### 1. Prerequisites
+Make sure you have [Node.js](https://nodejs.org) installed (v18 or higher recommended).
+
+### 2. Installation
+Clone the repository and install the dependencies:
+```bash
+git clone https://github.com
+cd End-to-End-QA-Automation-Framework-Playwright-Jest-
+npm install
+```
+
+### 3. Running Tests
+* **Run API Tests (Jest):**
+  ```bash
+  npm run test:api
+  ```
+* **Run E2E UI Tests (Playwright):**
+  ```bash
+  npx playwright test
+  ```
+* **Open Playwright Test Report:**
+  ```bash
+  npx playwright show-report
+  ```
+
 
 ## 👤 Author
 
