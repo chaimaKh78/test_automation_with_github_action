@@ -15,7 +15,7 @@ It demonstrates a **QA engineering approach**, combining:
 
 The framework ensures **functional correctness, data consistency, and user experience reliability** across the entire application stack.
 
-## 🎯 QA Objectives (Senior-Level Focus)
+## 🎯 QA Objectives 
 
 This project was designed to validate:
 
